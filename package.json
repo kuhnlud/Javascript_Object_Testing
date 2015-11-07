@@ -1,0 +1,28 @@
+{
+  "name": "javascript_object_testing",
+  "version": "1.0.0",
+  "description": "Testing OOP inJavascipt with ES5/ES6",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuhnlud/Javascript_Object_Testing.git"
+  },
+  "keywords": [
+    "ES6"
+  ],
+  "author": "Kuhn Ludovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuhnlud/Javascript_Object_Testing/issues"
+  },
+  "homepage": "https://github.com/kuhnlud/Javascript_Object_Testing#readme",
+  "devDependencies": {
+    "babel": "^6.0.15",
+    "babelify": "^7.2.0",
+    "gulp": "^3.9.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
